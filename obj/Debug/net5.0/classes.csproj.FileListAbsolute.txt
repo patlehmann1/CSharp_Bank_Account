@@ -1,0 +1,15 @@
+/Users/patrick.lehmann/dotnet/classes/bin/Debug/net5.0/classes.deps.json
+/Users/patrick.lehmann/dotnet/classes/bin/Debug/net5.0/classes.runtimeconfig.json
+/Users/patrick.lehmann/dotnet/classes/bin/Debug/net5.0/classes.runtimeconfig.dev.json
+/Users/patrick.lehmann/dotnet/classes/bin/Debug/net5.0/classes.dll
+/Users/patrick.lehmann/dotnet/classes/bin/Debug/net5.0/ref/classes.dll
+/Users/patrick.lehmann/dotnet/classes/bin/Debug/net5.0/classes.pdb
+/Users/patrick.lehmann/dotnet/classes/obj/Debug/net5.0/classes.csproj.AssemblyReference.cache
+/Users/patrick.lehmann/dotnet/classes/obj/Debug/net5.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrick.lehmann/dotnet/classes/obj/Debug/net5.0/classes.AssemblyInfoInputs.cache
+/Users/patrick.lehmann/dotnet/classes/obj/Debug/net5.0/classes.AssemblyInfo.cs
+/Users/patrick.lehmann/dotnet/classes/obj/Debug/net5.0/classes.csproj.CoreCompileInputs.cache
+/Users/patrick.lehmann/dotnet/classes/obj/Debug/net5.0/classes.dll
+/Users/patrick.lehmann/dotnet/classes/obj/Debug/net5.0/ref/classes.dll
+/Users/patrick.lehmann/dotnet/classes/obj/Debug/net5.0/classes.pdb
+/Users/patrick.lehmann/dotnet/classes/obj/Debug/net5.0/classes.genruntimeconfig.cache
